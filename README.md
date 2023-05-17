@@ -9,6 +9,7 @@ Jakarta Standard Tag Library encapsulates as simple tags the core functionality 
 ![image](https://github.com/PD-Repo-Point/jstl-intro-demo/assets/104901724/f7ea0a60-833f-4d0d-9eb6-a72cef75feb5)
 
 ### Install JSTL Library
+#
 
 • Either one of them works, may have others available
 
@@ -34,6 +35,7 @@ Jakarta Standard Tag Library encapsulates as simple tags the core functionality 
 </dependency>
 
 ### Add JSP taglib directive
+#
 
 • Core Tag Library :
  <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
