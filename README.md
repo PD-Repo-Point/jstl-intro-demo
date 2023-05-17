@@ -11,28 +11,10 @@ Jakarta Standard Tag Library encapsulates as simple tags the core functionality 
 ### Install JSTL Library
 #
 
-• Either one of them works, may have others available
+**Either one of them works, may have others available**
 
-<dependency>
-  
-<groupId>org.glassfish.web</groupId>
-  
-<artifactId>jakarta.servlet.jsp.jstl</artifactId>
-  
-<version>2.0.0-M1</version>
-  
-</dependency>
+![image](https://github.com/PD-Repo-Point/jstl-intro-demo/assets/104901724/f1bd2b6b-9ec1-4c61-bf11-0d4b56eb0a28)
 
-
-<dependency>
-  
-<groupId>org.eclipse.jetty</groupId>
-  
-<artifactId>apache-jstl</artifactId>
-  
-<version>11.0.0.beta2</version>
-  
-</dependency>
 
 ### Add JSP taglib directive
 #
