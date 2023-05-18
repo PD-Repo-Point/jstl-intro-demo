@@ -10,9 +10,8 @@
         <p>Retired: Age>65 </p>
     </c:if>
 
-    <c:if test="${! (age > 65)}">
+    <c:if test="${!(age > 65)}">
         <p>Retired: Age<65 </p>
     </c:if>
-
 </body>
 </html>

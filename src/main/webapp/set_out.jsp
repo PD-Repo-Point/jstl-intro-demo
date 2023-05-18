@@ -35,7 +35,5 @@
         <c:out value="${person.firstName}"></c:out>
         <c:out value="${person.lastName}"></c:out>
     </p>
-
-
 </body>
 </html>
