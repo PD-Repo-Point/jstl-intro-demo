@@ -9,6 +9,7 @@
         <li><a href="c_if.jsp">c:if</a></li>
         <li><a href="c_choose.jsp">c:choose, c:when and c:otherwise demo</a></li>
         <li><a href="person">c:forEach Demo</a></li>
+        <li><a href="jstl_function.jsp">JSTL Function</a></li>
     </ul>
 </body>
 </html>
