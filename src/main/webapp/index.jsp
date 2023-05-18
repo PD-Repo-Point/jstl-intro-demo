@@ -10,6 +10,7 @@
         <li><a href="c_choose.jsp">c:choose, c:when and c:otherwise demo</a></li>
         <li><a href="person">c:forEach Demo</a></li>
         <li><a href="jstl_function.jsp">JSTL Function</a></li>
+        <li><a href="jstl_format.jsp">JSTL Format</a></li>
     </ul>
 </body>
 </html>
